@@ -1,3 +1,3 @@
 # 博客首页
 
-[博客地址](http://i.jakeyu.top)
+[预览](http://home.jakeyu.top)
